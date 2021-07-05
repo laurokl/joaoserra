@@ -73,3 +73,71 @@ input, textarea {
   .body2 {
     backdrop-filter: blur(2px);
   }
+
+  .inicial {
+  border-top: 3px solid white; 
+  width: 180px; 
+  position: absolute; 
+  left: 350px; 
+  top: 50px; 
+  text-align: center; 
+  font-size: 15px; 
+  padding-top: 10px;
+
+}
+
+.sobre {
+  border-top: 3px solid white; 
+  width: 180px; 
+  position: absolute; 
+  left: 650px; 
+  top: 50px; 
+  text-align: center; 
+  font-size: 15px; 
+  padding-top: 10px;
+}
+
+.fotografias {
+  border-top: 3px solid white; 
+  width: 180px; 
+  position: absolute; 
+  left: 950px; 
+  top: 50px; 
+  text-align: center; 
+  font-size: 15px; 
+  padding-top: 10px;
+}
+
+.contato {
+  border-top: 3px solid white; 
+  width: 180px; 
+  position: absolute; 
+  left: 1250px; 
+  top: 50px; 
+  text-align: center; 
+  font-size: 15px; 
+  padding-top: 10px;
+}
+
+p {
+  font-size: 15px; 
+  text-align: justify;
+}
+
+.portfolio {
+  padding-left: 50px; 
+  padding-top: 75px;
+  border-radius: 5px;
+}
+
+.fotos {
+  border-radius: 30px;
+  width: 300px;
+  margin-left: 38px;
+}
+
+.fotos2 {
+  width: 600px;
+  border-radius: 25px;
+  margin-left: 60px;
+}
